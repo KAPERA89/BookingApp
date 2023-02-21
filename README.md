@@ -16,5 +16,5 @@ $ Yarn start
 ``` 
 for others use : 
 ````
-npm start 
+$ npm start 
 ```
