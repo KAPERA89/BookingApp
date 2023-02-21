@@ -15,6 +15,6 @@ To run Admin Page use :
 $ Yarn start
 ``` 
 for others use : 
-````
+```
 $ npm start 
 ```
