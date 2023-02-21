@@ -8,3 +8,13 @@ Project is created with:
   * MongoDb
   * NodesJs (express, cookieParser, Cors) using MVC Pattern
   * Cloudinary Api (its a free API for uploading images and videos)
+
+## Setup
+To run Admin Page use : 
+``` 
+$ Yarn start
+``` 
+for others use : 
+````
+npm start 
+```
